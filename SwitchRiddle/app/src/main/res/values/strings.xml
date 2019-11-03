@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Switch Riddle</string>
+    <string name="action_about">About</string>
+    <string name="about_message">Inspired by an exhibit of the Mathematikum, Gießen (Germany).\nEarl Grey\'s Hand 2014.</string>
+    <string name="about_title">About Switch Riddle 1.3</string>
+    <string name="clear">Clear</string>
+    <string name="random">Random</string>
+    <string name="toastSolved">Solved!</string>
+    
+</resources>
